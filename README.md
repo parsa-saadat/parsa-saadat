@@ -47,8 +47,8 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/parsa-saadat" target="_blank">Telegram</a> • 
-  <a href="mailto:your.email@example.com" target="_blank">Email</a> • 
+  <a href="https://t.me/ParsaSaadat" target="_blank">Telegram</a> • 
+  <a href="mailto:parsasaadat13881@gmail.com" target="_blank">Email</a> • 
   <a href="https://github.com/parsa-saadat" target="_blank">GitHub</a>
 </p>
 
