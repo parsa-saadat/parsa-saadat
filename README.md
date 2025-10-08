@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hello, I'm [Your Name]</h1>
-<h3 align="center">💻 Full-Stack JavaScript Developer</h3>
+<h1 align="center">-Hello, I'm PARSA-</h1>
+<h3 align="center">-Full-Stack JavaScript Developer-</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parsa-saadat&show_icons=true&theme=radical" alt="GitHub Stats" />
