@@ -66,9 +66,9 @@
 
 <div align="center">
 
-### 📈 GitHub Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parsa-saadat&theme=radical)
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=parsa-saadat&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> 
+</p>
 
 **Open to new opportunities and exciting projects!** 🚀
 
