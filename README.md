@@ -2,7 +2,6 @@
 <h3 align="center">-Full-Stack JavaScript Developer-</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parsa-saadat&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsa-saadat&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
